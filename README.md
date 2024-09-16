@@ -30,4 +30,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Join the Client VM to the domain and setup remote desktop for non-administrative users.
 - Create a bunch of additional users using PowerShell_ise and attempt to login to the Client VM with one of the new users.
 
-<h2>Deployment and Configuration Steps</h2>
+
